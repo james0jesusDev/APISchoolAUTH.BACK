@@ -1,0 +1,6 @@
+@APISchoolAUTH.BACK_HostAddress = http://localhost:5142
+
+GET {{APISchoolAUTH.BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
